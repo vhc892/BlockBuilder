@@ -1,0 +1,7 @@
+*/worker_atlas.png filter=lfs diff=lfs merge=lfs -text
+*.a filter=lfs diff=lfs merge=lfs -text
+*.so filter=lfs diff=lfs merge=lfs -text
+*.dll filter=lfs diff=lfs merge=lfs -text
+*.bundle filter=lfs diff=lfs merge=lfs -text
+*.srcaar filter=lfs diff=lfs merge=lfs -text
+Worker_ver2.fbx filter=lfs diff=lfs merge=lfs -text
